@@ -1,0 +1,10 @@
+#addTransactionForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#addTransactionForm input,select {
+    width: 40vw;
+    text-align: center;
+    margin: 1vh;
+}
